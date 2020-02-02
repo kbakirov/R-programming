@@ -14,7 +14,7 @@ library(tidyverse)
 ### Setting working directory
 ```
 print(getwd())
-setwd("C:/Users/Kuanysh/Documents/GitHub/R-programming/Decision_Tree Student_designation")
+setwd("C:/Users/Kuanysh/Documents/GitHub/R-programming/Decision_Tree/Student_designation")
 ```
 ### Reading StudentData
 ```
