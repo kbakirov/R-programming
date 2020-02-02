@@ -46,4 +46,4 @@ text(tree.student_data, pretty = 0)
 tree.student_data
 ```
 ### Recap
-If you dedicate less than 2.97 hours time to study, most probably you are an average student. However, if you spend more time and your GPA is greater than 3.335 you will graduate with honor. Otherwise, you are just struggling student.
+If you dedicate less than 2.97 hours to study, most probably you are an average student. However, if you spend more time and your GPA is greater than 3.335 you will graduate with honor. Otherwise, you are just struggling student.
