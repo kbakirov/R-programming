@@ -40,6 +40,7 @@ tree.student_data = tree(Designation~., data = student_data)
 plot(tree.student_data)
 text(tree.student_data, pretty = 0)
 ```
+![Tree](Images/Tree.png)
 ### We built our tree
 ```
 tree.student_data
