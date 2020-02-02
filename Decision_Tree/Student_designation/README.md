@@ -1,5 +1,5 @@
 # Student Designation
-## Predicting student classification as an honors, average, or struggling student.
+## Student classification as an honors, average or struggling student.
 
 ### The StudentData.csv dataset contains three variables:
 - **Designation**: A variable that classifies each student as an honors, average, or struggling student.
