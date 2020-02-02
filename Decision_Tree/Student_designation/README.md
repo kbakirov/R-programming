@@ -10,22 +10,22 @@
 library(tree)
 library(tidyverse)
 
-#setting working directory
+### Setting working directory
 print(getwd())
-setwd("C:/Users/Kuanysh/Documents/GitHub/R-programming/Decision_Tree/Student_designation")
+setwd("C:/Users/Kuanysh/Documents/GitHub/R-programming/Decision_Tree Student_designation")
 
-#reading StudentData
+### Reading StudentData
 student_data <- read.csv("StudentData.csv", fileEncoding = "UTF-8-BOM")
 
-#exploring data
+### Exploring data
 print(student_data)
 summary(student_data)
 
-#plotting scatterplot to see correlation
+### Plotting scatterplot to see correlation
 ggplot(data = student_data) +
   geom_point(mapping = aes(x=Study_Time, y= GPA, color=Designation, shape=Designation))
 
-#constructing decision tree
+### Constructing decision tree
 tree.student_data = tree(Designation~., data = student_data)
 
 #plotting tree
