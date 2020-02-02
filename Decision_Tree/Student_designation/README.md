@@ -30,7 +30,7 @@ summary(student_data)
 ggplot(data = student_data) +
   geom_point(mapping = aes(x=Study_Time, y= GPA, color=Designation, shape=Designation))
 ```
-![Scatterplot](/Images/Rplot.png)
+![Scatterplot](C:\Users\Kuanysh\Documents\GitHub\R-programming\Decision_Tree\Student_designation\Images\Rplot.png)
 ### Constructing decision tree
 ```
 tree.student_data = tree(Designation~., data = student_data)
@@ -41,5 +41,6 @@ plot(tree.student_data)
 text(tree.student_data, pretty = 0)
 ```
 ### We built our tree
-```tree.student_data
+```
+tree.student_data
 ```
