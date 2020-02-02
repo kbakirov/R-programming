@@ -1,7 +1,7 @@
 # Student Designation
 ## Predicting student classification as an honors, average, or struggling student.
 
-### The StudentData dataset contains three variables:
+### The StudentData.csv dataset contains three variables:
 - **Designation**: A variable that classifies each student as an honors, average, or struggling student.
 - **GPA**: The student's current GPA.
 - **Study_Time**: The number of hours that a student self-reports studying per night.
