@@ -1,4 +1,4 @@
-# R-programming
+# Statistics and Machine Learning algorithms
 Working on projects in R
 
 ## Projects
