@@ -1,5 +1,5 @@
 # Statistics and Machine Learning algorithms
-Working on projects in R
+Building statistical models and applying ML algorithms on data to extract insights  
 
 ## Projects
 - [Implementing Decision Tree algorithm](https://github.com/kbakirov/R-programming/tree/master/Decision_Tree)
@@ -14,3 +14,4 @@ Working on projects in R
 - Present your solution.
 - Launch, monitor, and maintain your system.
 Obviously, you should feel free to adapt this checklist to your needs.
+
