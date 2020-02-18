@@ -4,6 +4,7 @@ Building statistical models and applying ML algorithms on data to extract insigh
 ## Projects
 - [Implementing Decision Tree algorithm](https://github.com/kbakirov/R-programming/tree/master/Decision_Tree)
 - [Linear Regression on House price prediction](https://github.com/kbakirov/Statistics-and-Machine-Learning-algorithms/tree/master/Linear%20Regression)
+- [Classification of MNIST handwritten digits](https://github.com/kbakirov/Statistics-and-Machine-Learning-algorithms/tree/master/Classification)
 
 ## This checklist can guide you through your Machine Learning projects. There are eight main steps:
 - Frame the problem and look at the big picture.
